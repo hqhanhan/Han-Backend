@@ -31,6 +31,9 @@
 
         <module>han-feign</module>
         <module>han-ribbonNew</module>
+        <module>han-config</module>
+        <module>han-zuul</module>
+        <module>han-sso</module>
     </modules>
 
 
